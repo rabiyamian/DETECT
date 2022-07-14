@@ -4,8 +4,8 @@ theme: "starter-hugo-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseURL: 'https://detect-screening.netlify.app' # Website URL
+title: Detection of Elder Abuse Through Emergency Care Technicians (DETECT) # Website name
+baseURL: 'https://detection-of-elder-abuse-through-emergency-care-technicians.netlify.app' # Website URL
 
 ############################
 ## LANGUAGE
@@ -70,3 +70,6 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+
+
