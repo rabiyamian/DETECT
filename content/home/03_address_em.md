@@ -17,8 +17,8 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description:
-    icon: thought-bubble
-    icon_pack: fab
+    icon: 💭
+    icon_pack: emoji
     name: Raise Awareness
   - description: 
     icon: 🎯

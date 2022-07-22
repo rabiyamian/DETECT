@@ -1,24 +1,33 @@
 ---
+# An instance of the Featurette widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
-widget_id: "headless: true"
+
+# This file represents a page section.
 headless: true
-weight: 30
+
+# Order that this section appears on the page.
+weight: 50
+
 title: Skills
-subtitle: null
+subtitle:
+
+# Showcase personal skills or business features.
+# - Add/remove as many `feature` blocks below as you like.
+# - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
-    icon: r-project
-    icon_pack: fab
-    name: R
-  - description: 100%
-    icon: chart-line
-    icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
-<<<<<<< HEAD
+  - description:
+    icon: 💭
+    icon_pack: emoji
+    name: Raise Awareness
+  - description: 
+    icon: 🎯
+    icon_pack: emoji
+    name: Identify and Report
+  - description: 
+    icon: 🔬
+    icon_pack: emoji
+    name: Develop Screening Tools for Detection and Prevention
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
@@ -35,9 +44,6 @@ feature:
 #  description: "90%"
 
 # Activate this widget
-active: true
+active: false
 
-=======
-active: true
->>>>>>> f519d013396318018e42ac9ff618a16a96450c3b
 ---
