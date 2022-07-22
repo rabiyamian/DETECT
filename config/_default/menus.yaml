@@ -4,8 +4,8 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: "About"
-    url: '/about/'
+  - name: "About Us"
+    url: '/about us/'
     weight: 10
   - name: Research
     url: '/research/'
@@ -16,8 +16,8 @@ main:
   - name: Tools & Resources
     url: '/tools & resources/'
     weight: 40
-  - name: Contact
-    url: '/contact/'
+  - name: Contact Us
+    url: '/contact us/'
     weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
