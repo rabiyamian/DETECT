@@ -32,16 +32,16 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: c
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: true
     highlight_active_link: true
 
 # Site footer
 
-footer:
+#footer:
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
     license:
@@ -52,7 +52,7 @@ footer:
 
 # Localization
 
-locale:
+#locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
   address_format: en-us
