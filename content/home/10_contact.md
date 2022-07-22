@@ -10,7 +10,7 @@ weight: 60
 
 column: "1"
 
-title: Contact
+title: Contact Us
 subtitle:
 
 content:
