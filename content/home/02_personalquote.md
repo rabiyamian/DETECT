@@ -3,7 +3,7 @@
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 15  # Order that this section will appear.
 
 title = "'Personal Quote'"
 subtitle = ""
@@ -47,11 +47,11 @@ subtitle = ""
  css_class = ""
 +++
 
-Matt Zavadsky at MedStar (mzavadsky@medstar911.org),
+Matt Zavadsky at MedStar (mzavadsky@medstar911.org)
 
-Ron Acierno in Houston (ronald.acierno@uth.tmc.edu),
+Ron Acierno in Houston (ronald.acierno@uth.tmc.edu)
 
-Laura Mosqueda at USC (laura.mosqueda@med.usc.edu),
+Laura Mosqueda at USC (laura.mosqueda@med.usc.edu)
 
 Brandon Pate (bpate@medstar911.org) at MedStar
 

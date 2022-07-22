@@ -44,5 +44,3 @@ active: true
 Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
 
-# Activate this widget
-active: true

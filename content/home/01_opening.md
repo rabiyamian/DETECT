@@ -3,7 +3,7 @@
 widget = "blank" 
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
 title = "**D**etection of **E**lder Abuse **T**hrough **E**mergency **C**are **T**echnicians"
 subtitle = ""
@@ -63,4 +63,4 @@ The [**National Center on Elder Abuse**](https://ncea.acl.gov/) (NCEA) defines e
 
 EM is often not detected or reported to the authorities. Adults who suffer from EM are more likely to have physical injuries, mental health issues, trouble with daily functioning, more visits to the emergency room, admissions to the hospital and nursing home, illnesses, and early death.
 
-DETECT will help to raise awareness regarding the effect of universal screening for EM as well as improve the detection, management, and prevention of more cases of EM.
+DETECT will help to raise awareness regarding the effect of universal screening for EM as well as improve the detection, management, and prevention of more cases.
