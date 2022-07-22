@@ -1,20 +1,10 @@
 ---
-# An instance of the Featurette widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
-
-# This file represents a page section.
+widget_id: "headless: true"
 headless: true
-
-# Order that this section appears on the page.
 weight: 30
-
 title: Skills
-subtitle:
-
-# Showcase personal skills or business features.
-# - Add/remove as many `feature` blocks below as you like.
-# - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
+subtitle: null
 feature:
   - description: 90%
     icon: r-project
@@ -28,6 +18,7 @@ feature:
     icon: camera-retro
     icon_pack: fas
     name: Photography
+<<<<<<< HEAD
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
@@ -46,4 +37,7 @@ feature:
 # Activate this widget
 active: true
 
+=======
+active: true
+>>>>>>> f519d013396318018e42ac9ff618a16a96450c3b
 ---
