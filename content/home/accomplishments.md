@@ -50,4 +50,8 @@ item:
 
 design:
   columns: '2'
+
+# Activate this widget? true/false
+active: true
+
 ---

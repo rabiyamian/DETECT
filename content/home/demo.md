@@ -84,3 +84,6 @@ Backgrounds can be applied to any section. Here, the _background_ option is set 
 ## Get inspired
 
 [Check out the Markdown files](https://github.com/wowchemy/starter-academic/tree/master/exampleSite) which power the [Academic Demo](https://academic-demo.netlify.app), or [view the showcase](https://wowchemy.com/user-stories/).
+
+# Activate this widget? true/false
+active: true

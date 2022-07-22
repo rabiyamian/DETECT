@@ -34,8 +34,15 @@ design:
   # Choose a view for the listings:
   view: citation
   columns: '2'
+
+# Activate this widget
+active: true
+
 ---
 
 {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
+
+# Activate this widget
+active: true
