@@ -1,11 +1,11 @@
 +++
 
-widget = "blank"  # See https://wowchemy.com/docs/page-builder/
+widget = "blank" 
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 50  # Order that this section will appear.
 
-title = "'Personal Quote'"
+title = "Looking For A Speaker For Your Event"
 subtitle = ""
 
 [design]
@@ -48,12 +48,4 @@ subtitle = ""
 +++
 <center>
 
-Matt Zavadsky at MedStar (mzavadsky@medstar911.org)
-
-Ron Acierno in Houston (ronald.acierno@uth.tmc.edu)
-
-Laura Mosqueda at USC (laura.mosqueda@med.usc.edu)
-
-Brandon Pate (bpate@medstar911.org) at MedStar
-
-(at least one personal story from a medic and/or an older adult)
+We provide information and education to general and specific audiences on elder mistreatment and DETECT. To request our participation, please contact us.

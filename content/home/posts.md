@@ -37,6 +37,6 @@ design:
   columns: '2'
 
 # Activate this widget
-active: true
+active: false
 
 ---

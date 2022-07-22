@@ -6,7 +6,9 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 55
+weight: 60
+
+column: "1"
 
 title: Contact
 subtitle:
@@ -34,28 +36,36 @@ content:
     postcode: '75207'
     country: United States
     country_code: US
-  coordinates:
+#  coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+#  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+#  office_hours:
+#    - 'Monday 10:00 to 13:00'
+#    - 'Wednesday 09:00 to 10:00'
+#  appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+      link: 'https://twitter.com/brad_cannell'
+    - icon: linkedin
+      icon_pack: fab
+      name: Connect
+      link: 'https://www.linkedin.com/in/bradcannell/'
+    - icon: facebook
+      icon_pack: fab
+      name: Message Me
+      link: 'https://www.facebook.com/Brad-Cannell-PhD-MPH-109345984850672'
+#    - icon: video
+#      icon_pack: fas
+#      name: Zoom Me
+#      link: 'https://zoom.com'
 
 design:
   columns: '2'
 
 # Activate this widget? true/false
-active: false
+active: true
 
 ---

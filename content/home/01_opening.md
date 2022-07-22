@@ -46,20 +46,21 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+<center>
 
-## **What does DETECT stand for?**
+### **What does DETECT stand for?**
 
 DETECT stands for the Detection of Elder Abuse Through Emergency Care Technicians.
 
-## **What is the goal of DETECT?**
+### **What is the goal of DETECT?**
 
 The goal of DETECT is to introduce an efficient and effective screening tool that can identify elder mistreatment (EM) early and report its occurrence to Adult Protective Services if present.
 
-## **What is elder abuse or mistreatment?**
+### **What is elder abuse or mistreatment?**
 
 The [**National Center on Elder Abuse**](https://ncea.acl.gov/) (NCEA) defines elder abuse as the harming of an elderly individual due to physical, emotional, or sexual abuse, as well as neglect and misuse of finances. There is, however, no universally agreed upon definition for elder abuse. Legal definitions may be different from state to state.
 
-## **Why is DETECT important?**
+### **Why is DETECT important?**
 
 EM is often not detected or reported to the authorities. Adults who suffer from EM are more likely to have physical injuries, mental health issues, trouble with daily functioning, more visits to the emergency room, admissions to the hospital and nursing home, illnesses, and early death.
 

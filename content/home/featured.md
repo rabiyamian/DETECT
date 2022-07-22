@@ -35,6 +35,6 @@ design:
   view: 3
 
 # Activate this widget
-active: true
+active: false
 
 ---

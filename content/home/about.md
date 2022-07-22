@@ -17,6 +17,6 @@ title: Biography
 author: admin
 
 # Activate this widget? true/false
-active: true
+active: false
 
 ---

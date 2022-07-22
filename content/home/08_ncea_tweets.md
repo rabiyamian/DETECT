@@ -1,11 +1,11 @@
 +++
 
-widget = "blank"  # See https://wowchemy.com/docs/page-builder/
+widget = "blank" 
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 45  # Order that this section will appear.
 
-title = "'Personal Quote'"
+title = ""
 subtitle = ""
 
 [design]
@@ -48,12 +48,7 @@ subtitle = ""
 +++
 <center>
 
-Matt Zavadsky at MedStar (mzavadsky@medstar911.org)
+<a href="https://twitter.com/intent/tweet?screen_name=NCEAatUSC&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @NCEAatUSC</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Ron Acierno in Houston (ronald.acierno@uth.tmc.edu)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Join Dr. Laura Mosqueda, Director of the NCEA and a Health and Aging Policy Fellow, and Bob Blancato, National Coordinator of <a href="https://twitter.com/ElderJustice?ref_src=twsrc%5Etfw">@ElderJustice</a>, for a moderated “fireside chat” on July 27, 2022 at 11 AM PT/2 PM ET.<a href="https://t.co/RaJmn4Xkvz">https://t.co/RaJmn4Xkvz</a> <a href="https://t.co/e2RYTKzj2u">pic.twitter.com/e2RYTKzj2u</a></p>&mdash; National Center on Elder Abuse (@NCEAatUSC) <a href="https://twitter.com/NCEAatUSC/status/1549462331540660224?ref_src=twsrc%5Etfw">July 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Laura Mosqueda at USC (laura.mosqueda@med.usc.edu)
-
-Brandon Pate (bpate@medstar911.org) at MedStar
-
-(at least one personal story from a medic and/or an older adult)

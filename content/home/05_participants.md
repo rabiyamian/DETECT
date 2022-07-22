@@ -1,11 +1,11 @@
 +++
 
-widget = "blank"  # See https://wowchemy.com/docs/page-builder/
+widget = "blank" 
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
-title = "'Personal Quote'"
+title = "Questions For Participants"
 subtitle = ""
 
 [design]
@@ -48,12 +48,18 @@ subtitle = ""
 +++
 <center>
 
-Matt Zavadsky at MedStar (mzavadsky@medstar911.org)
+### **Who contacted me or left me a voicemail?**
 
-Ron Acierno in Houston (ronald.acierno@uth.tmc.edu)
+You recently used Medstar’s emergency medical services and were contacted by the emergency medical technicians/paramedics at MedStar for an interview.
 
-Laura Mosqueda at USC (laura.mosqueda@med.usc.edu)
+### **Why was I contacted?**
 
-Brandon Pate (bpate@medstar911.org) at MedStar
+During Medstar’s response to your emergency call, you were pre-screened for potential elder mistreatment. You may qualify to participate in the DETECT study if you are 65 years of age or older, residing in Tarrant County, Texas.
 
-(at least one personal story from a medic and/or an older adult)
+### **What will I be asked to do?**
+
+A health and safety interview will be initially conducted over the phone. If you consent to participate in the study, you will proceed with the interview process. A trained paramedic will visit your home to see if signs of potential mistreatment are present in your physical and/or social environments.
+
+### **Will I be compensated for participating?**
+
+Participants who complete a one hour in-person interview with a MedStar community paramedic are given a $40 gift card.

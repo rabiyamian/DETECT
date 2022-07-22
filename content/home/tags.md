@@ -23,6 +23,6 @@ design:
   font_size_max: 2.0
 
 # Activate this widget
-active: true
+active: false
 
 ---

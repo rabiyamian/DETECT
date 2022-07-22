@@ -1,11 +1,11 @@
 +++
 
-widget = "blank"  # See https://wowchemy.com/docs/page-builder/
+widget = "blank" 
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 55  # Order that this section will appear.
 
-title = "'Personal Quote'"
+title = "Acknowledgements & Funding"
 subtitle = ""
 
 [design]
@@ -48,12 +48,13 @@ subtitle = ""
 +++
 <center>
 
-Matt Zavadsky at MedStar (mzavadsky@medstar911.org)
+### **Acknowledgements**
 
-Ron Acierno in Houston (ronald.acierno@uth.tmc.edu)
+We wish to acknowledge MedStar and Adult Protective Services for their continuing support and dedication in this project. We also thank the National Institute of Justice for their ongoing support of this study.
 
-Laura Mosqueda at USC (laura.mosqueda@med.usc.edu)
 
-Brandon Pate (bpate@medstar911.org) at MedStar
+### **Funding**
 
-(at least one personal story from a medic and/or an older adult)
+This project was supported by Award No. 2014-MU-CX-0102, awarded by the National Institute of Justice, Office of Justice Programs, U.S. Department of Justice. The opinions, findings, and conclusions or recommendations expressed on this website are those of the author(s) and do not necessarily reflect those of the Department of Justice.
+
+This research was also supported by the National Institute on Aging of the National Institutes of Health under Award Number R01AG059993. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.

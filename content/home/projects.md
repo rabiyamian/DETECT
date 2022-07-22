@@ -47,6 +47,6 @@ design:
   flip_alt_rows: false
 
 # Activate this widget
-active: true
+active: false
 
 ---
