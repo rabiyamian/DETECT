@@ -3,7 +3,7 @@
 widget = "blank" 
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 35  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Map Of DETECT Intervention Area"
 subtitle = "Tarrant County"

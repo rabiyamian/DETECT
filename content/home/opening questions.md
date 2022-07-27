@@ -60,12 +60,12 @@ DETECT is tool that medics use while responding to an emergency call. It helps t
 
 The [**National Center on Elder Abuse**](https://ncea.acl.gov/) (NCEA) describes elder abuse as harming of an elderly person physically, emotionally, or sexually. Forms of abuse also include neglect and misuse of finances. 
 
-Cases of elder abuse are difficult to find and even harder to report to the authorities. 
-
-Elders who suffer from abuse are more likely to have physical injuries, mental health issues, trouble with daily tasks, sickness, and early death. They also have increased emergency room visits, hospitalizations, and nursing home admissions.
-
 There is no universal definition for elder abuse and legal definitions vary from state to state.
 
 ### **Why is DETECT important?**
+
+Cases of elder abuse are difficult to find and even harder to report to the authorities. 
+
+Elders who suffer from abuse are more likely to have physical injuries, mental health issues, trouble with daily tasks, sickness, and early death. They also have increased emergency room visits, hospitalizations, and nursing home admissions.
 
 DETECT helps to raise awareness of elder abuse, find and report cases, and prevent more abuse from happening.
