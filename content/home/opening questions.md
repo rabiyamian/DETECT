@@ -50,18 +50,22 @@ subtitle = ""
 
 ### **What does DETECT stand for?**
 
-DETECT stands for the Detection of Elder Abuse Through Emergency Care Technicians.
+DETECT stands for The Detection of Elder Abuse Through Emergency Care Technicians.
 
 ### **What is the goal of DETECT?**
 
-The goal of DETECT is to introduce an efficient and effective screening tool that can identify elder mistreatment (EM) early and report its occurrence to Adult Protective Services if present.
+DETECT is tool that medics use while responding to an emergency call. It helps to find elders who could be suffering from different kinds of abuse. The abuse is reported to Adult Protective Services (APS) to further help those being affected.
 
 ### **What is elder abuse or mistreatment?**
 
-The [**National Center on Elder Abuse**](https://ncea.acl.gov/) (NCEA) defines elder abuse as the harming of an elderly individual due to physical, emotional, or sexual abuse, as well as neglect and misuse of finances. There is, however, no universally agreed upon definition for elder abuse. Legal definitions may be different from state to state.
+The [**National Center on Elder Abuse**](https://ncea.acl.gov/) (NCEA) describes elder abuse as harming of an elderly person physically, emotionally, or sexually. Forms of abuse also include neglect and misuse of finances. 
+
+Cases of elder abuse are difficult to find and even harder to report to the authorities. 
+
+Elders who suffer from abuse are more likely to have physical injuries, mental health issues, trouble with daily tasks, sickness, and early death. They also have increased emergency room visits, hospitalizations, and nursing home admissions.
+
+There is no universal definition for elder abuse and legal definitions vary from state to state.
 
 ### **Why is DETECT important?**
 
-EM is often not detected or reported to the authorities. Adults who suffer from EM are more likely to have physical injuries, mental health issues, trouble with daily functioning, more visits to the emergency room, admissions to the hospital and nursing home, illnesses, and early death.
-
-DETECT will help to raise awareness regarding the effect of universal screening for EM as well as improve the detection, management, and prevention of more cases.
+DETECT helps to raise awareness of elder abuse, find and report cases, and prevent more abuse from happening.
