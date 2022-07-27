@@ -50,5 +50,5 @@ subtitle = ""
 
 <a href="https://twitter.com/intent/tweet?screen_name=NCEAatUSC&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @NCEAatUSC</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<a class="twitter-timeline" href="https://twitter.com/NCEAatUSC" data-tweet-limit="2" data-width="899" ></a>
+<a class="twitter-timeline" href="https://twitter.com/NCEAatUSC" data-tweet-limit="1" data-width="799" ></a>
 <script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script>
