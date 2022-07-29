@@ -3,6 +3,7 @@
 title: Tools & Resources
 
 ---
+
 [National Center for Elder Abuse](https://ncea.acl.gov/)
 
 [Adult Protective Services](https://www.dfps.state.tx.us/adult_protection/)
