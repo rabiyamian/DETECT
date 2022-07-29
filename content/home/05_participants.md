@@ -50,11 +50,11 @@ subtitle = ""
 
 ### **Who contacted me or left me a voice mail?**
 
-You recently used Medstar’s emergency medical services and were contacted by the emergency medical technicians/paramedics at MedStar for an interview.
+You recently used MedStar’s emergency medical services and were contacted by the emergency medical technicians/paramedics at MedStar for an interview.
 
 ### **Why was I contacted?**
 
-During Medstar’s response to your emergency call, you were pre-screened for potential elder mistreatment. You may qualify to participate in the DETECT study if you are 65 years of age or older, residing in Tarrant County, Texas.
+During MedStar’s response to your emergency call, you were pre-screened for potential elder mistreatment. You may qualify to participate in the DETECT study if you are 65 years of age or older, residing in Tarrant County, Texas.
 
 ### **What will I be asked to do?**
 
