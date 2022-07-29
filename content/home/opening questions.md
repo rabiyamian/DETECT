@@ -5,12 +5,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 11  # Order that this section will appear.
 
-#title = "**D  E T E C T**"
+title = "D  E T E C T"
 subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -45,8 +45,9 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+ 
 +++
-<center>
+
 
 ### **What does DETECT stand for?**
 

@@ -8,7 +8,6 @@ headless: true
 # Order that this section appears on the page.
 weight: 55
 
-column: "1"
 
 title: Contact Us
 subtitle:

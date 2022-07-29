@@ -3,14 +3,15 @@
 widget = "blank" 
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 70  # Order that this section will appear.
 
-title = "Links to Literature"
+title = "Funding"
+
 subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -46,12 +47,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+<center>
 
+This project was supported by Award No. 2014-MU-CX-0102, awarded by the National Institute of Justice, Office of Justice Programs, U.S. Department of Justice. The opinions, findings, and conclusions or recommendations expressed on this website are those of the author(s) and do not necessarily reflect those of the Department of Justice.
 
-[Towards the development of a screening tool to enhance the detection of elder abuse and neglect by emergency medical technicians (EMTs): a qualitative study](https://bmcemergmed.biomedcentral.com/articles/10.1186/s12873-016-0084-3)
-
-[Pilot testing the detection of elder abuse through emergency care technicians (DETECT) screening tool: results from the DETECT pilot project](https://www.tandfonline.com/doi/full/10.1080/08946566.2018.1564104?casa_token=pIGLsb9IbyEAAAAA%3Apx1I8JicPq_7YFhJWgftGz8uTUIBhLCN2jYEQtCrvBottQqwaqQk9QAmDs14051iARPcto5YW50)
-
-[Evaluation of the Detection of Elder Mistreatment Through Emergency Care Technicians Project Screening Tool](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2765655)
-
-[Validation of the detection of elder abuse through emergency care technicians (DETECT) screening tool: a study protocol](https://bmjopen.bmj.com/content/10/9/e037170)
+This research was also supported by the National Institute on Aging of the National Institutes of Health under Award Number R01AG059993. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.
