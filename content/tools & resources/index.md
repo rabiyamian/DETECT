@@ -1,12 +1,10 @@
 ---
 
-title: Tools & Resources
+title: "Tools & Resources"  # Add a page title.
+summary: "Hello!"  # Add a page description.
+date: "2019-01-01T00:00:00Z"  # Add today's date.
+type: "widget_page"  # Page type is a Widget Page
 
 ---
 
-[National Center for Elder Abuse](https://ncea.acl.gov/)
-
-[Adult Protective Services](https://www.dfps.state.tx.us/adult_protection/)
-
-[National Institute on Aging](https://www.nia.nih.gov/health/infographics/spotting-signs-elder-abuse)
 
