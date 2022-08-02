@@ -5,7 +5,7 @@
 
 main:
   - name: "About Us"
-    url: "#01_opening"
+    url: "#about us"
     weight: 10
   - name: Research
     url: '/research/'
@@ -17,7 +17,7 @@ main:
     url: '/tools & resources/'
     weight: 40
   - name: Contact Us
-    url: "#10_contact"
+    url: "#contact us"
     weight: 50
 
 # Link to a PDF of your resume/CV from the menu.

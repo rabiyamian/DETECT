@@ -5,12 +5,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = ""
+title = "Adult Protective Services"
 subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -49,8 +49,5 @@ subtitle = ""
 
 <center>
 
-[National Center for Elder Abuse](https://ncea.acl.gov/)
-
 [Adult Protective Services](https://www.dfps.state.tx.us/adult_protection/)
 
-[National Institute on Aging](https://www.nia.nih.gov/health/infographics/spotting-signs-elder-abuse)

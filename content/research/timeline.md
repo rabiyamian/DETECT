@@ -47,14 +47,35 @@ subtitle = ""
  css_class = ""
 +++
 
-(Insert picture of timeline)
-
-2014 Start of DETECT project
-
-2015 DETECT 5-week pilot study
-
-2015 – 2017 Wash-out period
-
-2017-2018 DETECT 1-year observational study
-
-2019 to present DETECT follow-up interviews
+<div class="timeline">
+  <div class="container left">
+    <div class="content">
+      <h2>2014</h2>
+      <p>Start of DETECT project</p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>2015</h2>
+      <p>DETECT 5-week pilot study</p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>2015 – 2017</h2>
+      <p>Wash-out period</p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>2017 – 2018</h2>
+      <p>DETECT 1-year observational study</p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>2019 to Present</h2>
+      <p>DDETECT follow-up interviews</p>
+    </div>
+  </div>
+</div>

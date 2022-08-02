@@ -77,15 +77,15 @@ A follow-up interview is done a month after the DETECT screening with a simple r
 
 MedStar:
 
-Contacts participants
+Contacts participants,
 
-Schedules a follow-up interview
+Schedule follow-up interviews,
 
-Conducts a capacity assessment
+Conducts capacity assessments,
 
-Explains the informed consent process and
+Explains the informed consent process, and
 
-Conducts the follow-up interview if the individual gives written consent
+Conducts follow-up interviews after obtaining written consent
 
 A specially trained community paramedic visits each older adult’s home to collect data about the older adult’s medical history, current mistreatment status, the older adult’s physical and social environment, and other potential risk and protective factors. They take pictures of the inside and the outside of the older adult’s home, to be used later in the evaluation of the overall state of the older adult’s physical environment, identification of potential safety hazards, and formal evaluation for clutter and hoarding status.
 
