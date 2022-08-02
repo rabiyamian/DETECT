@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "'Insert Personal Quote'"
+title = "'Personal Quote'"
 subtitle = ""
 
 [design]
@@ -46,6 +46,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
 <center>
 
 Matt Zavadsky at MedStar (mzavadsky@medstar911.org)

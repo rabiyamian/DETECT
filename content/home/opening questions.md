@@ -48,11 +48,11 @@ subtitle = ""
  
 +++
 
-
 ### **What does DETECT stand for?**
 
-DETECT stands for The Detection of Elder Abuse Through Emergency Care Technicians.
-
+DETECT stands for The Detection of Elder Abuse Through Emergency Care Technicians. 
+Unstage line	
+ 
 ### **What is the goal of DETECT?**
 
 DETECT is tool that MedStar medics may use while responding to an emergency call to help identify elders who could be suffering from different kinds of abuse. The abuse is reported to Adult Protective Services (APS) to further help those being affected.

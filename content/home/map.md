@@ -37,7 +37,7 @@ subtitle = "Tarrant County"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["50px", "0px", "500px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -49,5 +49,4 @@ subtitle = "Tarrant County"
 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d429411.2515520154!2d-97.57166478120213!3d32.7716935729957!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864e7dee9749f70d%3A0x50737ebd03573a46!2sTarrant%20County%2C%20TX!5e0!3m2!1sen!2sus!4v1659413223354!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
 
