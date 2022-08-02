@@ -46,7 +46,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<center>
 
 <a href="https://twitter.com/intent/tweet?screen_name=NCEAatUSC&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @NCEAatUSC</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
