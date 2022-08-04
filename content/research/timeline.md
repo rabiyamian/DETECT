@@ -75,7 +75,7 @@ subtitle = ""
   <div class="container right">
     <div class="content">
       <h2>2019 to Present</h2>
-      <p>DDETECT follow-up interviews</p>
+      <p>DETECT follow-up interviews</p>
     </div>
   </div>
 </div>
