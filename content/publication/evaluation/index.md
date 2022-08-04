@@ -18,7 +18,7 @@ date: "2020-05-07T00:00:00Z"
 doi: "doi:10.1001/jamanetworkopen.2020.4099"
 featured: true
 #image:
-  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+ # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   #focal_point: ""
   #preview_only: false
 #projects:
