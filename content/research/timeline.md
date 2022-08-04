@@ -3,7 +3,7 @@
 widget = "blank" 
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
 title = "Timeline"
 subtitle = ""
@@ -51,31 +51,31 @@ subtitle = ""
   <div class="container left">
     <div class="content">
       <h2>2014</h2>
-      <p>Start of DETECT project</p>
+      <p>Start of DETECT Project</p>
     </div>
   </div>
   <div class="container right">
     <div class="content">
       <h2>2015</h2>
-      <p>DETECT 5-week pilot study</p>
+      <p>DETECT 5-Week Pilot Study</p>
     </div>
   </div>
   <div class="container right">
     <div class="content">
       <h2>2015 – 2017</h2>
-      <p>Wash-out period</p>
+      <p>Wash-Out Period</p>
     </div>
   </div>
   <div class="container right">
     <div class="content">
       <h2>2017 – 2018</h2>
-      <p>DETECT 1-year observational study</p>
+      <p>DETECT 1-Year Observational Study</p>
     </div>
   </div>
   <div class="container right">
     <div class="content">
       <h2>2019 to Present</h2>
-      <p>DETECT follow-up interviews</p>
+      <p>DETECT Follow-Up Interviews</p>
     </div>
   </div>
 </div>

@@ -75,16 +75,11 @@ A recruitment phone call is a health and safety interview for adults aged 65 and
 
 A follow-up interview is done a month after the DETECT screening with a simple random sample of older adults who speak English.
 
-MedStar:
-
-Contacts participants,
-
-Schedule follow-up interviews,
-
-Conducts capacity assessments,
-
-Explains the informed consent process, and
-
+MedStar: <br>
+Contacts participants, <br>
+Schedule follow-up interviews, <br>
+Conducts capacity assessments, <br>
+Explains the informed consent process, and <br>
 Conducts follow-up interviews after obtaining written consent
 
 A specially trained community paramedic visits each older adult’s home to collect data about the older adult’s medical history, current mistreatment status, the older adult’s physical and social environment, and other potential risk and protective factors. They take pictures of the inside and the outside of the older adult’s home, to be used later in the evaluation of the overall state of the older adult’s physical environment, identification of potential safety hazards, and formal evaluation for clutter and hoarding status.
