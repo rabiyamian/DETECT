@@ -48,9 +48,43 @@ subtitle = ""
 +++
 
 
-Jason Burnett, PhD (facilitator) <br>
-John Halphen <br>
-Kristin Reuter <br>
-Stephanie Large (UNTHSC) <br>
-Tarrant County District Attorney's Office <br>
+#### Jason Burnett, PhD
+Assistant Professor, Co-Director of The Texas Elder Abuse & <br>
+Mistreatment Institute (TEAM), Co-Director of the Forensic Assessment Center Network <br> (FACN)-APS Division <br>
+The University of Texas Health Science Center at Houston <br>
+McGovern Medical School <br>
+Houston, TX 77030 <br>
+Phone: 713-873-4685 <br>
+Email: Jason.Burnett@uth.tmc.edu <br>
+
+#### John Halphen, MD, JD
+Associate Professor, Geriatric And Palliative Medicine <br>
+Department of Internal Medicine <br>
+The University of Texas Health Science Center at Houston <br>
+McGovern Medical School <br>
+Houston, TX 77030 <br>
+Phone: 713-500-6295 <br>
+Email: John.M.Halphen@uth.tmc.edu <br>
+
+#### Kristin Reuter, LMSW
+Instructor, Internal Medicine & Geriatrics <br>
+Director of Social Services for the UNTHSC Center for Geriatrics <br>
+The University of North Texas Health Science Center at Fort Worth <br>
+Texas College of Osteopathic Medicine <br>
+Email: Kristen.Reuter@unthsc.edu <br>
+
+#### Stephanie Large, NP
+Instructor, Pharmacology & Neuroscience <br>
+School of Biomedical Sciences <br>
+The University of North Texas Health Science Center at Fort Worth <br>
+Email: Stephanie.Large@unthsc.edu <br>
+
+#### Janice Knebl, DO (former LEAD panelist)
+Member, Institute for Healthy Aging <br>
+Interim Chair and Professor, Internal Medicine & Geriatrics <br>
+The University of North Texas Health Science Center at Fort Worth <br>
+Texas College of Osteopathic Medicine <br>
+Email: Janice.Knebl@unthsc.edu <br>
+
+#### Tarrant County District Attorney's Office <br>
 
