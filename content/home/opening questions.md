@@ -22,7 +22,7 @@ subtitle = ""
     #color = "gray"
   
   # Background gradient.
-   gradient_start = "orange"
+   gradient_start = "pink"
    gradient_end = "blue"
   
   # Background image.
