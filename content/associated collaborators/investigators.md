@@ -50,7 +50,7 @@ subtitle = ""
 #### Brad Cannell, PhD, MPH
 Associate Professor <br>
 Department of Epidemiology, Human Genetics & Environmental Sciences <br>
-University of Texas School of Public Health
+The University of Texas Health Science Center at Houston School of Public Health <br>
 Dallas Campus <br>
 Dallas, TX 75390 <br>
 Phone: 972-546-2941 <br>
@@ -59,7 +59,7 @@ Email: Michael.B.Cannell@uth.tmc.edu <br>
 #### Jennifer M. Reingle Gonzalez, PhD
 Associate Professor <br>
 Department of Epidemiology, Human Genetics & Environmental Sciences <br>
-University of Texas School of Public Health <br>
+The University of Texas Health Science Center at Houston School of Public Health <br>
 Dallas Campus
 Dallas, TX 75390 <br>
 Phone: 214-648-1080 <br>
@@ -74,8 +74,12 @@ Atlanta, GA 30322 <br>
 Email: Melvin.Livingston@emory.edu <br>
 
 #### Sid O'Bryant, PhD
-UNTHSC <br>
-Sid.OBryant@unthsc.edu <br>
+Member, Institute for Healthy Aging <br>
+Professor and Executive Director, Institute for Translational Research <br>
+Professor, Pharmacology & Neuroscience <br>
+School of Biomedical Sciences <br>
+The University of North Texas Health Science Center at Fort Worth
+Email: Sid.OBryant@unthsc.edu <br>
 
 #### Julie C. Weitlauf, PhD
 Director, Women’s Mental Health and Aging Core, Sierra Pacific MIRECC <br>
@@ -89,7 +93,7 @@ Email: wjulie1@stanford.edu <br>
 #### Jason Burnett, PhD
 Assistant Professor, Co-Director of The Texas Elder Abuse & <br>
 Mistreatment Institute (TEAM), Co-Director of the Forensic Assessment Center Network <br> (FACN)-APS Division <br>
-UTHealth <br>
+The University of Texas Health Science Center at Houston <br>
 McGovern Medical School <br>
 Houston, TX 77030 <br>
 Phone: 713-873-4685 <br>
