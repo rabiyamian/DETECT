@@ -21,7 +21,7 @@ feature:
     icon_pack: emoji
     name: Raise Awareness
   - description: 
-    icon: 🎯
+    icon: 🔍
     icon_pack: emoji
     name: Identify and Report
   - description: 

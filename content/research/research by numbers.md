@@ -7,14 +7,14 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 25
+weight: 10
 
 title: Research By Numbers
 subtitle:
 
 
 # Activate this widget
-active: true
+active: false
 
 
 ---

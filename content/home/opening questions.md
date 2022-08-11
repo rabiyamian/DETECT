@@ -19,11 +19,11 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-    color = "gray"
+    #color = "gray"
   
   # Background gradient.
-   #gradient_start = "lightgreen"
-   #gradient_end = "lightblue"
+   gradient_start = "orange"
+   gradient_end = "blue"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
@@ -50,16 +50,15 @@ subtitle = ""
 
 ### **What does DETECT stand for?**
 
-DETECT stands for The Detection of Elder Abuse Through Emergency Care Technicians. 
-Unstage line	
+DETECT stands for The Detection of Elder Abuse Through Emergency Care Technicians.
  
 ### **What is the goal of DETECT?**
 
-DETECT is tool that MedStar medics may use while responding to an emergency call to help identify elders who could be living with different kinds of mistreatment. The mistreatment is reported to Adult Protective Services (APS) to further help those being affected.
+DETECT is a tool that MedStar medics may use while responding to an emergency call to help identify elders who could be living with different forms of mistreatment. Elder mistreatment should be reported to Adult Protective Services (APS) to further help those being affected.
 
 ### **What is elder abuse or mistreatment?**
 
-The [**National Center on Elder Abuse**](https://ncea.acl.gov/) (NCEA) describes elder abuse as harming of an elderly person physically, emotionally, or sexually. Forms of abuse also include neglect and misuse of finances. 
+The [**National Center on Elder Abuse**](https://ncea.acl.gov/) (NCEA) describes elder abuse or mistreatment as harming of an elderly person physically, emotionally, or sexually. Forms of abuse also include neglect and misuse of finances. 
 
 There is no universal definition for elder abuse and legal definitions vary from state to state.
 
@@ -67,6 +66,6 @@ There is no universal definition for elder abuse and legal definitions vary from
 
 Cases of elder abuse are difficult to find and even harder to report to the authorities. 
 
-Elders who suffer from abuse are more likely to have physical injuries, mental health issues, trouble with daily tasks, sickness, and early death. They also have increased emergency room visits, hospitalizations, and nursing home admissions.
+Elders who live with abuse are more likely to have physical injuries, mental health issues, trouble with daily tasks, sickness, and early death. They also have increased emergency room visits, hospitalizations, and nursing home admissions.
 
 DETECT helps to raise awareness of elder abuse, find and report cases, and prevent more abuse from happening.

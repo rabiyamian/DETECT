@@ -19,11 +19,11 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "gray"
+   #color = "gray"
   
   # Background gradient.
-  # gradient_start = "DarkGreen"
-  # gradient_end = "ForestGreen"
+   gradient_start = "orange"
+   gradient_end = "blue"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
@@ -54,12 +54,12 @@ You recently used MedStar’s emergency medical services and were contacted by t
 
 ### **Why was I contacted?**
 
-During MedStar’s response to your emergency call, you were pre-screened for potential elder mistreatment. You may qualify to participate in the DETECT study if you are 65 years of age or older, residing in Tarrant County, Texas.
+During MedStar’s response to your emergency call, you were pre-screened for possible elder mistreatment. You may qualify to take part in the DETECT study if you are 65 years of age or older, living in Tarrant County, Texas.
 
 ### **What will I be asked to do?**
 
-A health and safety interview will be initially conducted over the phone. If you consent to participate in the study, you will proceed with the interview process. A trained paramedic will visit your home to see if signs of potential mistreatment are present in your physical and/or social environments.
+First, a health and safety interview will be done over the phone. If you agree to take part in the study, you will go on with the interview process. A trained paramedic will visit your home to see if signs of possible mistreatment are present in your physical and/or social surroundings.
 
 ### **Will I be compensated for participating?**
 
-Participants who complete a one hour in-person interview with a MedStar community paramedic are given a $40 gift card.
+Participants who finish a one hour in-person interview with a MedStar community paramedic will be given a $40 gift card.

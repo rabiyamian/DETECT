@@ -1,10 +1,8 @@
 ---
 authors:
 - admin
-- 吳恩達
 categories:
 - Demo
-- 教程
 date: "2020-12-13T00:00:00Z"
 draft: false
 featured: false
@@ -23,8 +21,9 @@ summary: "Welcome \U0001F44B We know that first impressions are important, so we
   everything in no time."
 tags:
 - Academic
-- 开源
 title: Welcome to Wowchemy, the website builder for Hugo
+
+active: false
 ---
 
 ## Overview
