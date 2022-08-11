@@ -78,7 +78,7 @@ Member, Institute for Healthy Aging <br>
 Professor and Executive Director, Institute for Translational Research <br>
 Professor, Pharmacology & Neuroscience <br>
 School of Biomedical Sciences <br>
-The University of North Texas Health Science Center at Fort Worth
+The University of North Texas Health Science Center at Fort Worth <br>
 Email: Sid.OBryant@unthsc.edu <br>
 
 #### Julie C. Weitlauf, PhD
