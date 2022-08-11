@@ -55,7 +55,7 @@ Unstage line
  
 ### **What is the goal of DETECT?**
 
-DETECT is tool that MedStar medics may use while responding to an emergency call to help identify elders who could be suffering from different kinds of abuse. The abuse is reported to Adult Protective Services (APS) to further help those being affected.
+DETECT is tool that MedStar medics may use while responding to an emergency call to help identify elders who could be living with different kinds of mistreatment. The mistreatment is reported to Adult Protective Services (APS) to further help those being affected.
 
 ### **What is elder abuse or mistreatment?**
 
