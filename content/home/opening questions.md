@@ -58,14 +58,14 @@ DETECT is a tool that MedStar medics may use while responding to an emergency ca
 
 ### **What is elder abuse or mistreatment?**
 
-The [**National Center on Elder Abuse**](https://ncea.acl.gov/) (NCEA) describes elder abuse or mistreatment as harming of an elderly person physically, emotionally, or sexually. Forms of abuse also include neglect and misuse of finances. 
+The [**National Center on Elder Abuse**](https://ncea.acl.gov/) (NCEA) describes elder abuse or mistreatment as harming of an elderly person physically, emotionally, or sexually. Forms of mistreatment also include neglect and misuse of finances. 
 
-There is no universal definition for elder abuse and legal definitions vary from state to state.
+There is no universal definition for elder mistreatment and legal definitions vary from state to state.
 
 ### **Why is DETECT important?**
 
-Cases of elder abuse are difficult to find and even harder to report to the authorities. 
+Cases of elder mistreatment are difficult to find and even harder to report to the authorities. 
 
-Elders who live with abuse are more likely to have physical injuries, mental health issues, trouble with daily tasks, sickness, and early death. They also have increased emergency room visits, hospitalizations, and nursing home admissions.
+Elders who live with mistreatment are more likely to have physical injuries, mental health issues, trouble with daily tasks, sickness, and early death. They also have increased emergency room visits, hospitalizations, and nursing home admissions.
 
-DETECT helps to raise awareness of elder abuse, find and report cases, and prevent more abuse from happening.
+DETECT helps to raise awareness of elder mistreatment, find and report cases, and prevent more mistreatment from happening.
