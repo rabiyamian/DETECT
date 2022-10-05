@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 11  # Order that this section will appear.
 
-title = "D  E T E C T"
+title = "D E T E C T"
 subtitle = ""
 
 [design]
@@ -19,11 +19,11 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-    #color = "gray"
+    color = "gray"
   
   # Background gradient.
-   gradient_start = "orange"
-   gradient_end = "blue"
+   #gradient_start = "blue"
+   #gradient_end = "gray"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
