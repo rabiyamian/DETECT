@@ -19,11 +19,11 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   #color = "gray"
+   color = "gray"
   
   # Background gradient.
-   gradient_start = "orange"
-   gradient_end = "blue"
+   #gradient_start = "orange"
+   #gradient_end = "blue"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
