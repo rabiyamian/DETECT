@@ -3,9 +3,9 @@
 widget = "blank" 
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 25  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
-title = "Timeline"
+title = ""
 subtitle = ""
 
 [design]
@@ -26,18 +26,18 @@ subtitle = ""
   # gradient_end = "ForestGreen"
   
   # Background image.
-  # image = "image.jpg"  # Name of image in `static/media/`.
+  image = "timeline2.jpg"  # Name of image in `static/media/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+   image_position = "center"  # Options include `left`, `center` (default), or `right`.
+   image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
   text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["50px", "0", "500px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -47,35 +47,3 @@ subtitle = ""
  css_class = ""
 +++
 
-<div class="timeline">
-  <div class="container left">
-    <div class="content">
-      <h2>2014</h2>
-      <p>Start of DETECT Project</p>
-    </div>
-  </div>
-  <div class="container right">
-    <div class="content">
-      <h2>2015</h2>
-      <p>DETECT 5-Week Pilot Study</p>
-    </div>
-  </div>
-  <div class="container right">
-    <div class="content">
-      <h2>2015 – 2017</h2>
-      <p>Wash-Out Period</p>
-    </div>
-  </div>
-  <div class="container right">
-    <div class="content">
-      <h2>2017 – 2018</h2>
-      <p>DETECT 1-Year Observational Study</p>
-    </div>
-  </div>
-  <div class="container right">
-    <div class="content">
-      <h2>2019 to Present</h2>
-      <p>DETECT Follow-Up Interviews</p>
-    </div>
-  </div>
-</div>
