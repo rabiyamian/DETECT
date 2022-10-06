@@ -58,8 +58,8 @@ subtitle = ""
 <br/>
 <br/>
 
-{{< figure src="DFPS_LOGO.jpg" caption="" numbered="false"  width="500" 
-     height="500" >}}
+{{< figure src="DFPS_LOGO.jpg" caption="" numbered="false"  width="400" 
+     height="400" >}}
 
 [**Texas Department of Family and Protective Services**](https://www.dfps.state.tx.us/)
 
