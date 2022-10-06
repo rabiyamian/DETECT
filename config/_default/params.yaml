@@ -38,7 +38,8 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: true
-
+    show_icon: true
+    
 # Site footer
 
 #footer:
