@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Things We Can Do To Address Elder Mistreatment
+title: "**Things We Can Do To Address Elder Mistreatment**"
 subtitle:
 
 # Showcase personal skills or business features.
