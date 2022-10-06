@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Questions For Participants"
+title = "**Questions For Participants**"
 subtitle = ""
 
 [design]
@@ -19,7 +19,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "gray"
+   # color = "gray"
   
   # Background gradient.
    #gradient_start = "orange"
@@ -33,7 +33,7 @@ subtitle = ""
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
