@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "National Institute of Aging"
+title = ""
 subtitle = ""
 
 [design]
@@ -49,4 +49,6 @@ subtitle = ""
 
 <center>
 
-[National Institute of Aging](https://www.nia.nih.gov/)
+{{< figure src="NIA.jpg" caption="" numbered="false" >}}
+
+[**National Institute of Aging**](https://www.nia.nih.gov/)
