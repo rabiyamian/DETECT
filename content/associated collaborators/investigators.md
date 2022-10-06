@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Investigators"
+title = "**Investigators**"
 subtitle = ""
 
 [design]
@@ -46,6 +46,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+<center>
+
+{{< figure src="Cannell-Headshot-300x300.jpeg" caption="" numbered="false" width="200" 
+     height="300" >}}
 
 #### Brad Cannell, PhD, MPH
 Associate Professor <br>
@@ -55,7 +59,10 @@ Dallas Campus <br>
 Dallas, TX 75390 <br>
 Phone: 972-546-2941 <br>
 Email: Michael.B.Cannell@uth.tmc.edu <br>
+<br>
 
+{{< figure src="jennifermgonzalez.jpeg" caption="" numbered="false" width="200" 
+     height="300" >}}
 #### Jennifer M. Reingle Gonzalez, PhD
 Associate Professor <br>
 Department of Epidemiology, Human Genetics & Environmental Sciences <br>
@@ -64,7 +71,10 @@ Dallas Campus
 Dallas, TX 75390 <br>
 Phone: 214-648-1080 <br>
 Email: Jennifer.Reingle@UTSouthwestern.edu <br>
+<br>
 
+{{< figure src="Melvin_Livingston.jpeg" caption="" numbered="false" width="200" 
+     height="300" >}}
 #### Melvin Livingston, PhD
 Research Associate Professor <br>
 Department of Behavioral Sciences and Health Education <br>
@@ -72,7 +82,10 @@ Rollins School of Public Health <br>
 Emory University <br>
 Atlanta, GA 30322 <br>
 Email: Melvin.Livingston@emory.edu <br>
+<br>
 
+{{< figure src="Sid_O_Bryant.jpg" caption="" numbered="false" width="200" 
+     height="300" >}}
 #### Sid O'Bryant, PhD
 Member, Institute for Healthy Aging <br>
 Professor and Executive Director, Institute for Translational Research <br>
@@ -80,7 +93,10 @@ Professor, Pharmacology & Neuroscience <br>
 School of Biomedical Sciences <br>
 The University of North Texas Health Science Center at Fort Worth <br>
 Email: Sid.OBryant@unthsc.edu <br>
+<br>
 
+{{< figure src="Julie_Weitlauf.jpeg" caption="" numbered="false" width="200" 
+     height="300" >}}
 #### Julie C. Weitlauf, PhD
 Director, Women’s Mental Health and Aging Core, Sierra Pacific MIRECC <br>
 VA Palo Alto Health Care System <br>
@@ -89,7 +105,10 @@ Stanford University School of Medicine <br>
 Palo Alto, CA <br>
 Phone: 650-493-5000 (1)(2)(23429) <br>
 Email: wjulie1@stanford.edu <br>
+<br>
 
+{{< figure src="Jason-Burnett.jpeg" caption="" numbered="false" width="200" 
+     height="300" >}}
 #### Jason Burnett, PhD
 Assistant Professor, Co-Director of The Texas Elder Abuse & <br>
 Mistreatment Institute (TEAM), Co-Director of the Forensic Assessment Center Network <br> (FACN)-APS Division <br>
@@ -98,3 +117,4 @@ McGovern Medical School <br>
 Houston, TX 77030 <br>
 Phone: 713-873-4685 <br>
 Email: Jason.Burnett@uth.tmc.edu <br>
+<br>
