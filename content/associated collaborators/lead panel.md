@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Lead Panel"
+title = "**Lead Panel**"
 subtitle = ""
 
 [design]
@@ -46,17 +46,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+<center>
 
-
-#### Jason Burnett, PhD
-Assistant Professor, Co-Director of The Texas Elder Abuse & <br>
-Mistreatment Institute (TEAM), Co-Director of the Forensic Assessment Center Network <br> (FACN)-APS Division <br>
-The University of Texas Health Science Center at Houston <br>
-McGovern Medical School <br>
-Houston, TX 77030 <br>
-Phone: 713-873-4685 <br>
-Email: Jason.Burnett@uth.tmc.edu <br>
-
+{{< figure src="John-Halphen.jpeg" caption="" numbered="false" width="200" 
+     height="300" >}}
+     
 #### John Halphen, MD, JD
 Associate Professor, Geriatric And Palliative Medicine <br>
 Department of Internal Medicine <br>
@@ -65,26 +59,51 @@ McGovern Medical School <br>
 Houston, TX 77030 <br>
 Phone: 713-500-6295 <br>
 Email: John.M.Halphen@uth.tmc.edu <br>
+<br>
 
+{{< figure src="Jason-Burnett.jpeg" caption="" numbered="false" width="200" 
+     height="300" >}}
+#### Jason Burnett, PhD
+Assistant Professor, Co-Director of The Texas Elder Abuse & <br>
+Mistreatment Institute (TEAM), Co-Director of the Forensic Assessment Center Network <br> (FACN)-APS Division <br>
+The University of Texas Health Science Center at Houston <br>
+McGovern Medical School <br>
+Houston, TX 77030 <br>
+Phone: 713-873-4685 <br>
+Email: Jason.Burnett@uth.tmc.edu <br>
+<br>
+
+{{< figure src="KRISTEN_REUTER.jpg" caption="" numbered="false" width="200" 
+     height="300" >}}
 #### Kristin Reuter, LMSW
 Instructor, Internal Medicine & Geriatrics <br>
 Director of Social Services for the UNTHSC Center for Geriatrics <br>
 The University of North Texas Health Science Center at Fort Worth <br>
 Texas College of Osteopathic Medicine <br>
 Email: Kristen.Reuter@unthsc.edu <br>
+<br>
 
+
+{{< figure src="Stephanie_Large.jpg" caption="" numbered="false" width="200" 
+     height="300" >}}
 #### Stephanie Large, NP
 Instructor, Pharmacology & Neuroscience <br>
 School of Biomedical Sciences <br>
 The University of North Texas Health Science Center at Fort Worth <br>
 Email: Stephanie.Large@unthsc.edu <br>
+<br>
 
+{{< figure src="Janice_Knebl.jpg" caption="" numbered="false" width="200" 
+     height="300" >}}
 #### Janice Knebl, DO (former LEAD panelist)
 Member, Institute for Healthy Aging <br>
 Interim Chair and Professor, Internal Medicine & Geriatrics <br>
 The University of North Texas Health Science Center at Fort Worth <br>
 Texas College of Osteopathic Medicine <br>
 Email: Janice.Knebl@unthsc.edu <br>
+<br>
 
 #### Tarrant County District Attorney's Office <br>
+<br>
+
 
