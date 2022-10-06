@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Adult Protective Services"
+title = ""
 subtitle = ""
 
 [design]
@@ -49,5 +49,8 @@ subtitle = ""
 
 <center>
 
-[Adult Protective Services](https://www.dfps.state.tx.us/adult_protection/)
+{{< figure src="dfps_logo.jpg" caption="" numbered="false" >}}
+
+[**Adult Protective Services**](https://www.dfps.state.tx.us/adult_protection/)
+
 
