@@ -3,9 +3,9 @@
 widget = "blank" 
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
-title = "Timeline"
+title = "**Timeline**"
 subtitle = ""
 
 [design]
@@ -46,5 +46,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<center>
+
+
 {{< figure src="timeline2.jpg" caption="" numbered="false" >}}
+     
