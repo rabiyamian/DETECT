@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Community Collaborators"
+title = "**Community Collaborators**"
 subtitle = ""
 
 [design]
@@ -47,8 +47,26 @@ subtitle = ""
  css_class = ""
 +++
 
-[MedStar Mobile Healthcare](https://www.medstar911.org/)
 
-[Texas Department of Family and Protective Services](https://www.dfps.state.tx.us/)
+<center>
 
-[Tarrant County District Attorney's Office](https://www.tarrantcounty.com/en/criminal-district-attorney.html)
+{{< figure src="MedStar_MHC_Logo.jpg" caption="" numbered="false" width="500" 
+     height="500" >}}
+     
+[**MedStar Mobile Healthcare**](https://www.medstar911.org/)     
+     
+<br/>
+<br/>
+
+{{< figure src="DFPS_LOGO.jpg" caption="" numbered="false"  width="500" 
+     height="500" >}}
+
+[**Texas Department of Family and Protective Services**](https://www.dfps.state.tx.us/)
+
+<br/>
+<br/>
+
+{{< figure src="tarrantcounty.jpg" caption="" numbered="false"  width="500" 
+     height="500" >}}
+
+[**Tarrant County District Attorney's Office**](https://www.tarrantcounty.com/en/criminal-district-attorney.html)
