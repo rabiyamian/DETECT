@@ -49,7 +49,7 @@ subtitle = ""
 
 <center>
 
-{{< figure src="dfps_logo.jpg" caption="" numbered="false" >}}
+{{< figure src="dfps_logo.jpeg" caption="" numbered="false" >}}
 
 [**Adult Protective Services**](https://www.dfps.state.tx.us/adult_protection/)
 
