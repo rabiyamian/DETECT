@@ -53,4 +53,6 @@ subtitle = ""
 
 [**Adult Protective Services**](https://www.dfps.state.tx.us/adult_protection/)
 
+"APS investigates abuse, neglect, and exploitation of adults who are elderly or have disabilities and who live in the community. Any adult who has a disability or who is age 65 or older that is in a state of abuse, neglect, or exploitation may be eligible to receive adult protective services.
 
+Victims of abuse, neglect, or exploitation may get short-term help with shelter, home repairs, food, transportation, managing money, medical care, home healthcare services, and mental health services."
