@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "National Center on Elder Abuse"
+title = ""
 subtitle = ""
 
 [design]
@@ -49,5 +49,7 @@ subtitle = ""
 
 <center>
 
-[National Center on Elder Abuse](https://ncea.acl.gov/)
+{{< figure src="NCEA_logoWribbon.jpg" caption="" numbered="false" >}}
+
+[**National Center on Elder Abuse**](https://ncea.acl.gov/)
 
