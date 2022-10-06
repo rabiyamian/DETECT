@@ -52,3 +52,7 @@ subtitle = ""
 {{< figure src="NIA.jpg" caption="" numbered="false" >}}
 
 [**National Institute of Aging**](https://www.nia.nih.gov/)
+
+"NIA, one of the 27 Institutes and Centers of NIH, leads the federal government in conducting and supporting research on aging and the health and well-being of older people. The Institute seeks to understand the nature of aging and the aging process, and diseases and conditions associated with growing older, in order to extend the healthy, active years of life.
+
+In 1974, Congress granted authority to form NIA to provide leadership in aging research, training, health information dissemination, and other programs relevant to aging and older people. Subsequent amendments to this legislation designated NIA as the primary Federal agency on Alzheimer’s disease research."

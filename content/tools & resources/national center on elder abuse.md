@@ -53,3 +53,6 @@ subtitle = ""
 
 [**National Center on Elder Abuse**](https://ncea.acl.gov/)
 
+"The NCEA provides the latest information regarding research, training, best practices, news and resources on elder abuse, neglect and exploitation to professionals and the public. First established by the U.S. Administration on Aging (AoA) in 1988 as a national elder abuse resource center, the NCEA was granted a permanent home at AoA in the 1992 amendments made to Title II of the Older Americans Act.
+
+The NCEA is one of 27 Administration on Aging-funded Resource Centers. Research shows that as many as two million elders are abused in the United States. The Administration on Aging recognizes that as a government, as a society and as individuals, we must increase our efforts to ensure that all older adults age with dignity and honor."
