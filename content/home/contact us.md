@@ -9,7 +9,7 @@ headless: true
 weight: 55
 
 
-title: Contact Us
+title: "**Contact Us**"
 subtitle:
 
 content:
