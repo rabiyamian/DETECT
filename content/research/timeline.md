@@ -48,6 +48,6 @@ subtitle = ""
 +++
 
 
-{{< figure src="timeline1.jpg" caption="" numbered="false" width="900" 
+{{< figure src="timeline.jpg" caption="" numbered="false" width="900" 
      height="900" >}}
      
