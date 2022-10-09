@@ -24,7 +24,6 @@ main:
     weight: 50
   - name: Safe Exit
     url: "http://www.google.com/"
-    target: "self"
     weight: 60
       
 # Link to a PDF of your resume/CV from the menu.
