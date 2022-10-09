@@ -99,3 +99,23 @@ Integrating the DETECT screening tool into the routine practices of medics is li
 ### **Do we have any key outcomes?**
 
 We are still in the process of collecting data.
+
+<center>
+
+{{< figure src="slide39.jpg" caption="**Figure 1**" numbered="false"  width="700" 
+     height="700" >}}
+
+{{< figure src="slide40.jpg" caption="**Figure 2**" numbered="false"  width="700" 
+     height="700" >}}
+
+{{< figure src="slide41.jpg" caption="**Table 1**" numbered="false"  width="700" 
+     height="700" >}}
+
+</center> 
+
+The estimated relative change in each group is presented in Table 1. Medics within the Medstar service area reported over four times as many cases of EA during the implementation of DETECT (RR=4.14, 95% CI:[3.25 5.27]). However, we also observed small pre-post changes among non-medics inside the MedStar service area and medics outside the MedStar service area, which indicates potential confounding in this crude estimate. After adjusting for changes in the number of EA reports in these comparison groups (i.e., underlying changes in reporting trends), our results indicate a roughly three-fold increase in reports (RR=3.03, 95% CI:[2.06, 4.46]) that may be attributed to the DETECT screening tool. 
+
+Further, the occurrence of EA was validated in 83% (95% CI:[75%, 91%]) of the reports investigated by APS in the periods when MedStar medics did not have access to the DETECT screening tool (study periods 1 and 3), compared to 82% (95% CI:[77%, 87%]) in the periods when MedStar medics did have access to the DETECT screening tool (study periods 2 and 4), indicating that there were no differences in the proportion of reports that resulted in a validated APS investigation. In other words, there was no evidence that the increases in reporting due to use of the DETECT tool were disproportionately invalid or inappropriate reports.
+<br>
+<br>
+     
