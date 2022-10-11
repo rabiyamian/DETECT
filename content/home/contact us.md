@@ -68,3 +68,5 @@ design:
 active: true
 
 ---
+
+{{< figure src="detect_logo.jpg" caption="" numbered="false" >}}
