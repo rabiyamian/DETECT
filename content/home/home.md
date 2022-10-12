@@ -2,7 +2,7 @@
 
 widget = "blank" 
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "**D**etection of **E**lder Abuse **T**hrough **E**mergency **C**are **T**echnicians"
