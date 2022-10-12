@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "**Screening Tool & Data**"
+title = "**Screening Tool**"
 subtitle = ""
 
 [design]
@@ -47,5 +47,4 @@ subtitle = ""
  css_class = ""
 +++
 
-
-We are happy to share the screening tool, however, at this point we want to control how widely it is shared. Please contact us by email.
+If you are interested in adopting the screening tool in your organization or research project, we are happy to collaborate. Please contact us by email.
