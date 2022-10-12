@@ -50,7 +50,7 @@ header:
       allow_derivatives: true
       share_alike: true
       allow_commercial: true
-
+  credits: 
 # Localization
 
 #locale:
