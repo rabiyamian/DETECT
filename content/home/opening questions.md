@@ -69,3 +69,4 @@ Cases of elder mistreatment are difficult to find and even harder to report to t
 Elders who live with mistreatment are more likely to have physical injuries, mental health issues, trouble with daily tasks, sickness, and early death. They also have increased emergency room visits, hospitalizations, and nursing home admissions.
 
 DETECT helps to raise awareness of elder mistreatment, find and report cases, and prevent more mistreatment from happening.
+<br/>
