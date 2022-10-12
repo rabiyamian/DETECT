@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "**Acknowledgements**"
+title = "**Acknowledgements & Funding**"
 
 subtitle = ""
 
@@ -47,6 +47,12 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
 <center>
 
-We wish to acknowledge MedStar and Adult Protective Services for their continuing support and dedication in this project. We also thank the National Institute of Justice for their ongoing support of this study.
+This research was supported by the National Institute on Aging of the National Institutes of Health under Award Number R01AG059993. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.
+
+
+This project was supported by Award No. 2014-MU-CX-0102, awarded by the National Institute of Justice, Office of Justice Programs, U.S. Department of Justice. The opinions, findings, and conclusions or recommendations expressed in this publication/program/exhibition are those of the author(s) and do not necessarily reflect those of the Department of Justice.
+
+We wish to acknowledge MedStar, Texas DFPS, and Adult Protective Services for their continuing support and dedication in this project. We also thank the National Institute of Justice for their ongoing support of this study.
