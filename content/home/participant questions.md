@@ -47,7 +47,6 @@ subtitle = ""
  css_class = ""
 +++
 
-
 ### **Who contacted me or left me a voice mail?**
 
 You recently used MedStar’s emergency medical services and were contacted by the emergency medical technicians/paramedics at MedStar for an interview.
@@ -63,3 +62,4 @@ First, a health and safety interview will be done over the phone. If you agree t
 ### **Will I be compensated for participating?**
 
 Participants who finish a one hour in-person interview with a MedStar community paramedic will be given a $40 gift card.
+<br/>
