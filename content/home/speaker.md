@@ -49,4 +49,4 @@ subtitle = ""
 
 <center>
 
-We provide information and education to general and specific audiences on elder mistreatment and DETECT. To request our participation, please contact us.
+We provide information and education to general and specific audiences on elder mistreatment and DETECT. To request our participation, please contact us by email.
