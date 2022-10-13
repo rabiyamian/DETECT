@@ -118,4 +118,3 @@ The estimated relative change in each group is presented in Table 1. Medics with
 Further, the occurrence of EA was validated in 83% (95% CI:[75%, 91%]) of the reports investigated by APS in the periods when MedStar medics did not have access to the DETECT screening tool (study periods 1 and 3), compared to 82% (95% CI:[77%, 87%]) in the periods when MedStar medics did have access to the DETECT screening tool (study periods 2 and 4), indicating that there were no differences in the proportion of reports that resulted in a validated APS investigation. In other words, there was no evidence that the increases in reporting due to use of the DETECT tool were disproportionately invalid or inappropriate reports.
 <br>
 <br>
-     
