@@ -2,7 +2,7 @@
 
 widget = "blank" 
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = ""
@@ -51,3 +51,8 @@ subtitle = ""
 +++
 
 
+
+<center>
+
+{{< figure src="DSC_0169-2[1].jpg" caption="" numbered="false" width="1000" 
+     height="1000" >}}
