@@ -49,10 +49,10 @@ subtitle = ""
 <center>
 
 
+{{< figure src="elder.jpg" caption="" numbered="false" width="1000" 
+     height="1000" >}}
 <figure class="inline-image">
 <div class="image-credit-wrapper">
-
-<img src="https://img.freepik.com/free-photo/nurse-holding-senior-man-s-hands-sympathy_23-2148740011.jpg?w=1800&t=st=1666122781~exp=1666123381~hmac=2aafd225562d4d09a5bc57f58d6711ba4998c85c99514221f1cfe8ad7c28b23d" width="1000" height="1000" >
 </div>
 <figcaption>
   <span><a href="https://www.freepik.com/free-photo/nurse-holding-senior-man-s-hands-sympathy_10892968.htm#query=elderly%20hands&position=8&from_view=keyword">Image Credits</a></span>
