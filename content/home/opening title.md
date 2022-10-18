@@ -48,5 +48,5 @@ subtitle = ""
 +++
 <center>
 
-{{< figure src="elder.jpg" caption="Image by [Freepik](www.freepik.com)" numbered="false" width="1000" 
+{{< figure src="elder.jpg" caption="[Image Credits](https://www.freepik.com/free-photo/nurse-holding-senior-man-s-hands-sympathy_10892968.htm#query=elder%20hands&position=7&from_view=search)" numbered="false" width="1000" 
      height="1000" >}}
