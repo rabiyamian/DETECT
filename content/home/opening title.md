@@ -48,5 +48,5 @@ subtitle = ""
 +++
 <center>
 
-{{< figure src="elder.jpg" caption="" numbered="false" width="1000" 
+{{< figure src="elder.jpg" caption="Image by [Freepik](www.freepik.com)" numbered="false" width="1000" 
      height="1000" >}}
