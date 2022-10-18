@@ -37,7 +37,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["20px", "0px", "20px", "0px"]
 
 [advanced]
  # Custom CSS. 
@@ -48,5 +48,7 @@ subtitle = ""
 +++
 <center>
 
-{{< figure src="elder.jpg" caption="" numbered="false" width="1000" 
-     height="1000" >}}
+<div style="position: relative">
+    <img src="https://img.freepik.com/free-photo/nurse-holding-senior-man-s-hands-sympathy_23-2148740011.jpg?w=1800&t=st=1666066670~exp=1666067270~hmac=efcd0eec1f5c4747e086bcb89085b09b976f29a42c7f7083bf17012170255043" width="400" height="400" alt="" class="featured-image"><span class="article-header-caption">Image by <a href="https://www.freepik.com/free-photo/nurse-holding-senior-man-s-hands-sympathy_10892968.htm#query=elderly%20hands&position=8&from_view=keyword">Freepik</a></span>
+  </div>
+  
