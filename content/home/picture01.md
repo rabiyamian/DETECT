@@ -3,7 +3,7 @@
 widget = "blank" 
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 25  # Order that this section will appear.
 
 title = ""
 
@@ -27,7 +27,7 @@ subtitle = ""
    #gradient_end = "ForestGreen"
   
   # Background image.
-  # image = "Carl - Compassion.jpg"  # Name of image in `static/media/`.
+   image = "Carl - Compassion.jpg"  # Name of image in `static/media/`.
    # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
    image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
    image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -40,7 +40,7 @@ subtitle = ""
   
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["50px", "0", "50px", "0"]
+  padding = ["50px", "0", "800px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -49,8 +49,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-<center>
-
-{{< figure src="Carl - Compassion.jpg" caption="" numbered="false" width="1000" 
-     height="1000" >}}

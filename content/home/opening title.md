@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "**D**etection of **E**lder **A**buse **T**hrough **E**mergency **C**are **T**echnicians"
+title = "**D**etection of **E**lder Abuse **T**hrough **E**mergency **C**are **T**echnicians"
 subtitle = ""
 
 [design]
@@ -46,16 +46,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<center>
 
-
-{{< figure src="elder.jpg" caption="" numbered="false" width="1000" 
-     height="1000" >}}
-<figure class="inline-image">
-<div class="image-credit-wrapper">
-</div>
-<figcaption>
-  <span><a href="https://www.freepik.com/free-photo/nurse-holding-senior-man-s-hands-sympathy_10892968.htm#query=elderly%20hands&position=8&from_view=keyword">Image Credits</a></span>
-</figcaption>
-</figure>
   

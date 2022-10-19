@@ -3,7 +3,7 @@
 widget = "blank" 
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 11  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "**D E T E C T**"
 subtitle = ""
