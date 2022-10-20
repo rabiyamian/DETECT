@@ -16,15 +16,14 @@ main:
   - name: Tools & Resources
     url: '/tools & resources/'
     weight: 40
-  - name: Contact Us
-    url: "#contact us"
-    weight: 70
   - name: Report Abuse
     url: "https://ncea.acl.gov/Suspect-Abuse/Reporting-Abuse.aspx"
     weight: 50
-    #name: Safe Exit
-    #url: "http://www.google.com/"
-    #weight: 60
+  - name: Contact Us
+    url: "#contact us"
+    weight: 60
+  
+    
       
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
