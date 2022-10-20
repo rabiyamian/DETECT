@@ -68,5 +68,6 @@ design:
 active: true
 
 ---
+<center>
 
 {{< figure src="detect_logo.jpg" caption="" numbered="false" >}}
