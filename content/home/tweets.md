@@ -10,7 +10,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -46,6 +46,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+<center>
 
 <a href="https://twitter.com/intent/tweet?screen_name=NCEAatUSC&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @NCEAatUSC</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
