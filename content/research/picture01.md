@@ -2,7 +2,7 @@
 
 widget = "blank" 
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = ""
@@ -40,7 +40,7 @@ subtitle = ""
   
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["50px", "0", "50px", "0"]
+  padding = ["50px", "0", "800px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -50,7 +50,3 @@ subtitle = ""
  css_class = ""
 +++
 
-<center>
-
-{{< figure src="DSC_0169-2[1].jpg" caption="" numbered="false" width="1000" 
-     height="1000" >}}
