@@ -61,5 +61,5 @@ First, a health and safety interview will be done over the phone. If you agree t
 
 ### **Will I be compensated for participating?**
 
-Participants who finish a one hour in-person interview with a MedStar community paramedic will be given a $40 gift card.
+Participants who finish a one hour in-person interview with a MedStar community paramedic will be given a $25 gift card.
 <br/>
